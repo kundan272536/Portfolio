@@ -50,10 +50,10 @@ body {
   }
 
   /* Project Sections*/
-  .project-sections {
-    /* background-color: #cef3f0; */
-    /* padding: 10px; */
-  }
+  /* .project-sections {
+    background-color: #cef3f0; 
+     padding: 10px;
+  } */
   .project-heading-h1 {
     margin-right: 55%;
   }
@@ -92,6 +92,29 @@ body {
     padding-top: 5px;
     border-top: 1px solid white;
   }
+  .education-details{
+    display: flex;
+    width: 1080px;
+    margin: 30px auto;
+    border: 2px solid white;
+    border-radius: 20px;
+    padding: 50px;
+    gap: 20px;    
+  }
+  .course-details{
+    background-color:#86efe6;
+    padding: 20px;
+    border-radius: 20px;
+    color: white;
+  }
+  .course-details button{
+    cursor: pointer;
+    font-size: 16px;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+  }
+ 
 }
 
 
