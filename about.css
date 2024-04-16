@@ -114,6 +114,10 @@ body {
     border: none;
     border-radius: 10px;
   }
+  .skill_sets{
+    display: flex;
+    gap: 20px;
+  }
  
 }
 
